@@ -7,8 +7,8 @@ import java.net.URL;
 
 public class api {
 
-    private static final String API_KEY = "AIzaSyDAH9OzbtBVqsSVv-D4oc0UiL-YP-ic5rE";
-    private static final String CX = "513b94142aa85447e";
+    private static final String API_KEY = ahajah-apinya";
+    private static final String CX = "id-cx";
 
     public String search(String query) throws Exception {
         String urlString = String.format(
